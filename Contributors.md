@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Paul Briar](https://github.com/paulbriar)
@@ -105,6 +105,7 @@
 - [Ragan Lake]
 - [Amos Nzivu]
 - [Cindy Trowbridge](https://github.com/ctrowbridge)
+- [Khushi Gour](https://github.com/khushigour)
 - [Samesh Lakhotia](https://github.com/sameshl)
 - [Art-Vanderlay](https://github.com/Art-Vanderlay)
 - [Kat Tow] (https://github.com/kattow88)
